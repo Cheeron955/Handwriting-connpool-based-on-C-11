@@ -1,4 +1,4 @@
-This project implements four basic functions of connection pool based on C++17,
+This project implements four basic functions of connection pool based on C++11,
 namely, initial connection volume, maximum connection volume, maximum idle time and connection timeout.
 
 precondition：
